@@ -2,6 +2,8 @@
 
 ![Vehicle](https://github.com/Manish-Singh12/Vehicle_Market_Analysis_Using_PowerBI/blob/main/vehicle.jpeg "a title")
 
+[LIVE DASHBOARD HERE](https://app.powerbi.com/view?r=eyJrIjoiZDQ0NmJhMTktMDQxYi00MWE3LTg4OGUtMjc1MGM5MTg3MTZhIiwidCI6IjIyYzM5ZWQxLTA4ZWMtNDU5NC1iYzYyLTIyNWEwNzRjN2FkOSJ9)
+
 *The objective of this dashboard is to provide a comprehensive analysis of vehicle sales performance, market trends, and customer preferences. It enables stakeholders to:*
 
 1. **Identify Top Performers:** Highlight top car makers, states, models, and colors by sales volume and revenue.
