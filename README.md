@@ -1,7 +1,7 @@
 
 # Sales Performance and Market Trends Analysis
 
-[Vehicle](https://github.com/Manish-Singh12/Vehicle_Market_Analysis_Using_PowerBI/blob/main/vehicle.jpeg "a title")
+[Vehicle](https://github.com/Manish-Singh12/Vehicle_Market_Analysis_Using_PowerBI/blob/main/vehicle.jpeg)
 
 *The objective of this dashboard is to provide a comprehensive analysis of vehicle sales performance, market trends, and customer preferences. It enables stakeholders to:*
 
